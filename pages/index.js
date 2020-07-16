@@ -1,5 +1,5 @@
 import React from "react";
 
 export default () => (
-  <meta httpEquiv="refresh" content="0; url=https://beyondthefive.org/" />
+  <div>We have a new website! Please visit https://beyondthefive.org</div>
 );
